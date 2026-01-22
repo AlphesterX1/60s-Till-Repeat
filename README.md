@@ -29,8 +29,8 @@ In most games, health is a resource to be protected. Here, it is a burden. To na
 ## 🛠️ Controls
 
 | Action | Input (Keyboard) |
-| :--- | :--- | :--- |
-| **Move** | WASD / Arrow Keys|
+| :--- | :--- |
+| **Move** | WASD / Arrow Keys |
 | **Attack** | Mouse Click |
 
 ---

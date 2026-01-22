@@ -13,7 +13,7 @@ In most games, health is a resource to be protected. Here, it is a burden. To na
 ### Core Mechanics
 * **Pain is Power:** Strategic collisions with spikes, enemies, and lasers grant you the speed necessary to clear massive gaps or beat tight countdowns.
 * **The Weight of Health:** Healing items are traps. Restoring your health adds "weight" to your character, stripping away your speed and leaving you sluggish.
-* **Health Saver: ** You Use your health bar as sword, so when you hit the enemies your health bar reduces
+* **Health Saver:** You Use your health bar as sword, so when you hit the enemies your health bar reduces
 * **Isometric Puzzles:** Navigate complex environments that require precise timing and a calculated approach to self-sacrifice.
 
 ---
